@@ -11,7 +11,7 @@ redirect_from:
 ### About me
 I am a first-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), 
 supervised by Associate Professor [Andreas Hellander](https://www.it.uu.se/katalog/andreash). 
-Prior to joining Andrea's group, I earned MS.c degrees in Computational Science at Uppsala
+Prior to joining Andrea's group, I earned MS.c in Computational Science at Uppsala
 University, MS.c in Chemometrics at 
 [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC),
 and BS.c in Chemistry at USTC. 
@@ -22,7 +22,7 @@ In particular, I am interested in problems arising in large-scale applications o
 
 ### News
  - 10/06/22: We released [*Blades*](https://github.com/bladesteam/blades), 
-a simulator for Byzantine-robust federated learning with attacks and defenses, on GitHub. 
+a simulator for Byzantine-robust federated learning with attacks and defenses. 
  - 21/12/21: Our paper
 ["Proactive autoscaling for edge computing systems with kubernetes"](https://dl.acm.org/doi/10.1145/3492323.3495588)
 got accepted in [UCC '21](https://ucc-conference.org/). 
