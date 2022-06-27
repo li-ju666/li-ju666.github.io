@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Li Ju"
   avatar           : "profile.jpeg"
-  bio              : "First-year Ph.D candidate in Scientific Computing at Uppsala University"
+  bio              : "Ph.D candidate in Scientific Computing at Uppsala University"
   location         : "Uppsala, Sweden"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/li-ju666"
+  github           : "li-ju666"
   google_plus      :
   keybase          :
   instagram        :
