@@ -8,7 +8,7 @@ redirect_from:
 ---
 #### Music Taste
 I am a dedicated metal head. I am particularly into
-- [black metal](https://en.wikipedia.org/wiki/Black_metal) music of various sub / fusion genres (orthodox black metal, raw black metal, blackened death metal Ross Bay Cult, Les Légions Noires, you name it. )
+- [black metal](https://en.wikipedia.org/wiki/Black_metal) music of various sub / fusion genres (orthodox black metal, raw black metal, blackened death metal, Ross Bay Cult, Les Légions Noires, you name it. )
 - [visual kei](https://en.wikipedia.org/wiki/Visual_kei) music (dir en grey, the Gazette, Malice Mizer, Moi Dix Mois, ナイトメア, etc. )
 ---
 #### Video Games
