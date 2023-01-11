@@ -19,3 +19,6 @@ I am very into videos games produced by [宮崎英高](https://ja.wikipedia.org/
 [League of Legends](https://www.leagueoflegends.com/en-us/) is another video game I spent a significant amount of time on (Platium I in Season 5 and 6). BUT, it is only fun when playing with friends.
 
 Other video games I like: Monster Hunter: World, Monster Hunter: Iceborne, World of Warcraft, It Takes Two, etc. 
+
+#### Visitors
+<script type="text/javascript" src="//cdn.livetrafficfeed.com/static/flag-counter/live.v2.js?row=5&col=2&cod=0&flg=1&bg=ffffff&txt=000000&ro=1&tz=Europe%2FStockholm"></script><noscript id="LTF_flags_href"><a href="https://livetrafficfeed.com/flag-counter">Flag Counter</a></noscript>
