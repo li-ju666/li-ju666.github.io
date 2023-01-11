@@ -21,4 +21,4 @@ I am very into videos games produced by [宮崎英高](https://ja.wikipedia.org/
 Other video games I like: Monster Hunter: World, Monster Hunter: Iceborne, World of Warcraft, It Takes Two, etc. 
 
 #### Visitors
-<script type="text/javascript" src="//cdn.livetrafficfeed.com/static/flag-counter/live.v2.js?row=5&col=2&cod=0&flg=1&bg=ffffff&txt=000000&ro=1&tz=Europe%2FStockholm"></script><noscript id="LTF_flags_href"><a href="https://livetrafficfeed.com/flag-counter">Flag Counter</a></noscript>
+<a href="http://s01.flagcounter.com/more/WC"><img src="https://s01.flagcounter.com/count/WC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
