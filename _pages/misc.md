@@ -22,4 +22,4 @@ Other video games I like: Monster Hunter: World, Monster Hunter: Iceborne, World
 
 ---
 #### Visitors
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=UXDbGp8xA9v7SsyiKUeKygrooHUmSSWjq0RvAc5HeSQ&cl=ffffff&w=a"></script>
+<a href="http://s01.flagcounter.com/more/WC"><img src="https://s01.flagcounter.com/count/WC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
