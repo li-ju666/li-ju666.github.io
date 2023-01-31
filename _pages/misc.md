@@ -6,13 +6,13 @@ author_profile: true
 redirect_from:
   - /misc.html
 ---
-## Music Taste
+## Music
 I am a dedicated metal head. I am particularly into
 - [black metal](https://en.wikipedia.org/wiki/Black_metal) of various sub / fusion genres (orthodox black metal, raw black metal, blackened death metal, Ross Bay Cult, Les Légions Noires, you name it. )
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0kwa3OW7o3tk5XMxbes7W2?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - [visual kei](https://en.wikipedia.org/wiki/Visual_kei) (Dir En Grey, the GazettE, Malice Mizer, Moi Dix Mois, ナイトメア, etc)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2mw4IAu2EIdMZFXOMdmnkq?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5pA9JKfA1Bcg6Brhq8nt7i?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 [Here](https://bandcamp.com/sariel_filth) are my digital collections.
 
@@ -21,4 +21,4 @@ I am very into videos games produced by [宮崎英高](https://ja.wikipedia.org/
 
 [League of Legends](https://www.leagueoflegends.com/en-us/) is another video game I spent a significant amount of time on (Platium I in Season 5 and 6). BUT, it is only fun when playing with friends.
 
-Other video games I like: Monster Hunter: World, Monster Hunter: Iceborne, World of Warcraft, It Takes Two, etc. 
+Other video games I like include Monster Hunter: World, Monster Hunter: Iceborne, World of Warcraft, It Takes Two, etc. 
