@@ -21,7 +21,7 @@ I am currently working on both theoretical and applied federated machine learnin
 I am in paticular interested in the data heterogeneity problems in federated learning. 
 
 ### News
- - 04/24: Our paper ["Federated Learning for Predicting Compound Mechanism of Action Based on Image-data from Cell Painting"]([https://www.biorxiv.org/content/10.1101/2024.02.09.579629v1.full.pdf](https://www.sciencedirect.com/science/article/pii/S2667318524000059)) got accepted in [Artificial Intelligence in the Life Sciences](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences).
+ - 04/24: Our paper ["Federated Learning for Predicting Compound Mechanism of Action Based on Image-data from Cell Painting"](https://www.sciencedirect.com/science/article/pii/S2667318524000059) got accepted in [Artificial Intelligence in the Life Sciences](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences).
  - 01/24: Our paper ["Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning"](https://arxiv.org/pdf/2206.05359) got accepted in [IoTDI '24](https://conferences.computer.org/iotDI/2024/).
  - 10/22: I had a poster presentation at the [Swedish e-Science Academy](https://essenceofescience.se/programme-the-swedish-e-science-academy-on-5-6-october/)
    about accelerating fair federated learning in Umeå, Sweden. 
