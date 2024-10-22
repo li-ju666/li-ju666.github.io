@@ -21,7 +21,7 @@ I am currently working on both theoretical and applied federated machine learnin
 I am in paticular interested in the data heterogeneity problems in federated learning. 
 
 ### News
- - 10/24: I had a poster presentation at the [Swedish e-Science Academy]([https://essenceofescience.se/programme-the-swedish-e-science-academy-on-5-6-october/](https://www.compile.lu.se/events/?evenemang=swedish-e-science-academy-2024)) about the theoretical analysis for the application of logit adjustment in heterogeneous federated learning.
+ - 10/24: I had a poster presentation at the [Swedish e-Science Academy](https://essenceofescience.se/programme-the-swedish-e-science-academy-on-5-6-october/](https://www.compile.lu.se/events/?evenemang=swedish-e-science-academy-2024) about the theoretical analysis for the application of logit adjustment in heterogeneous federated learning.
  - 06/24: Our paper ["Accelerating Fair Federated Learning: Adaptive Federated Adam"](https://ieeexplore.ieee.org/document/10584508) got accepted in [IEEE Transactions on Machine Learning in Communications and Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9882533).
  - 04/24: Our paper ["Federated Learning for Predicting Compound Mechanism of Action Based on Image-data from Cell Painting"](https://www.sciencedirect.com/science/article/pii/S2667318524000059) got accepted in [Artificial Intelligence in the Life Sciences](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences).
  - 01/24: Our paper ["Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning"](https://arxiv.org/pdf/2206.05359) got accepted in [IoTDI '24](https://conferences.computer.org/iotDI/2024/).
