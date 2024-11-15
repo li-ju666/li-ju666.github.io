@@ -2,12 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/ 
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "Misc."
     url: /misc/
-    
-  - title: "CV"
-    url: /cv/
+  
