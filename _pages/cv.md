@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
 * B.S. in Chemistry, University of Science and Technology of China (USTC), 2016
 * M.S. in Chemometrics, University of Science and Technology of China (USTC), 2019
