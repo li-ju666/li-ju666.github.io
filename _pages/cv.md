@@ -16,4 +16,4 @@ redirect_from:
 * Ph.D in Scientific Computing, Uppsala University, 2026 (expected)
 
 ### Services
-Invited Reviewer for IEEE TMC, IEEE Communication Magazine, and Future Generation Computer Systems.
+Invited Reviewer for IEEE TMC, IEEE TNNLS, IEEE Communication Magazine, and Future Generation Computer Systems.
