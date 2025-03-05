@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About me
-I am a third-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), 
+I am a fourth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), 
 supervised by Associate Professor [Andreas Hellander](https://www.it.uu.se/katalog/andreash). 
 Prior to starting my Ph.D study, I earned MS.c in Computational Science at Uppsala
 University, MS.c in Chemometrics at 
