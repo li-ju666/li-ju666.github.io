@@ -17,8 +17,8 @@ University, MS.c in Chemometrics at
 and BS.c in Chemistry at USTC. 
 
 ### Research Interests
-I am currently working on both theoretical and applied federated machine learning. 
-I am in paticular interested in the data heterogeneity problems in federated learning. 
+I am currently working on learning from distributed heterogeneous data.
+Particularly, I am interested in the data heterogeneity problems in federated learning and uncertainty quantification for multi-modal language models.
 
 ### News
  - 09/25: Our paper ["Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere"](https://arxiv.org/abs/2505.11029) got accepted to [NeurIPS 2025](https://neurips.cc).
