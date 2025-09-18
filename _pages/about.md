@@ -21,6 +21,7 @@ I am currently working on both theoretical and applied federated machine learnin
 I am in paticular interested in the data heterogeneity problems in federated learning. 
 
 ### News
+ - 09/25: Our paper ["Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere"](https://arxiv.org/abs/2505.11029) got accepted to [NeurIPS](https://neurips.cc).
  - 08/25: Our team Cat Quartet won 1st place out of >70 teams at [Huawei Sweden Hackathon 2025](https://techarena-sweden.hackathon.com), building a denoising neural SVD operator to approximate SVD operations in a more scalable and robust way.
  - 11/24: Our team Hello Kitty secured 2nd place out of 35 teams at [Huawei Sweden Hackathon 2024](https://techarena-sweden.hackathon.com), tackling wireless localisation problems using machine learning methods.
  - 10/24: I had a poster presentation at the [Swedish e-Science Academy](https://www.compile.lu.se/events/?evenemang=swedish-e-science-academy-2024) about the theoretical analysis for the application of logit adjustment in heterogeneous federated learning.
