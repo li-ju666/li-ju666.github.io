@@ -9,16 +9,10 @@ redirect_from:
 ---
 
 ### About me
-I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), 
-supervised by Associate Professor [Andreas Hellander](https://www.it.uu.se/katalog/andreash). 
-Prior to starting my Ph.D study, I earned MS.c in Computational Science at Uppsala
-University, MS.c in Chemometrics at 
-[University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC),
-and BS.c in Chemistry at USTC. 
+I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.it.uu.se/katalog/andreash). Prior to starting my Ph.D study, I earned MS.c in Computational Science at Uppsala University, MS.c in Chemometrics and BS.c in Chemistry at [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Research Interests
-I am currently working on learning from distributed heterogeneous data.
-Particularly, I am interested in the data heterogeneity problems in federated learning and uncertainty quantification for multi-modal language models.
+I am currently working on learning from distributed heterogeneous data. Particularly, I am interested in the data heterogeneity problems in federated learning and uncertainty quantification for multi-modal language models.
 
 ### News
 - **09/2025**: Our paper ["Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere"](https://arxiv.org/abs/2505.11029) got accepted to [NeurIPS 2025](https://neurips.cc).
