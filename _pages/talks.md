@@ -7,9 +7,9 @@ redirect_from:
   - /talks.html
 ---
 
-- **09/2025**: I gave talk titled "Orthogonality in neural network" for [Scaleout Edges](https://www.scaleoutsystems.com). [[slides](/files/ortho.pdf), [notes](/files/ortho_notes.pdf)]
+- **09/2025**: I gave a talk titled "Orthogonality in neural network" for [Scaleout Edges](https://www.scaleoutsystems.com). [[slides](/files/ortho.pdf), [notes](/files/ortho_notes.pdf)]
 
-- **09/2025**: I gave talk about flow matching and diffusion models at our group seminar. [[notes](/files/flow_matching_diffusion_models.pdf), [code](https://github.com/li-ju666/flow_and_diffusion_model/tree/master)]
+- **09/2025**: I gave a talk about flow matching and diffusion models at our group seminar. [[notes](/files/flow_matching_diffusion_models.pdf), [code](https://github.com/li-ju666/flow_and_diffusion_model/tree/master)]
 
 - **06/2025**: I gave my half-time seminar titled "Learning from distributed and heterogeneous data" for Department of Uppsala University. [[slides](/files/half_time_seminar.pdf)]
 
