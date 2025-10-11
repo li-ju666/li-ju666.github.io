@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Li Ju"
+title: ""
 excerpt: "Talks"
 author_profile: true
 redirect_from:

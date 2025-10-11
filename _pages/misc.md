@@ -1,6 +1,6 @@
 ---
 permalink: /misc/
-title: "Li Ju"
+title: ""
 excerpt: "Misc."
 author_profile: true
 redirect_from:
