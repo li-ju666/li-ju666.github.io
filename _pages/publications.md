@@ -9,7 +9,7 @@ redirect_from:
 My publication list can also be found at my [Google Scholar](https://scholar.google.com/citations?user=tlXTHUEAAAAJ&hl=en).
 
 ## Selected Publications
-**Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere**
+**Exploiting the asymmetric uncertainty structure of pre-trained VLMs on the unit hypersphere**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://openreview.net/pdf?id=iBRfJY91QQ) 
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2505.11029)
 [![code badge](https://img.shields.io/badge/code-yellow)](https://github.com/li-ju666/asymvlm)

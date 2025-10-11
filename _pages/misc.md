@@ -21,4 +21,10 @@ I am very into videos games produced by [宮崎英高](https://ja.wikipedia.org/
 
 [League of Legends](https://www.leagueoflegends.com/en-us/) is another video game I spent a significant amount of time on (Platium I in Season 5 and 6). BUT, it is only fun when playing with friends.
 
-Other video games I like include Monster Hunter: World, Monster Hunter: Iceborne, World of Warcraft, It Takes Two, etc. 
+Other video games I like include Lies of P, Monster Hunter: World, Monster Hunter: Iceborne, World of Warcraft, It Takes Two, etc. 
+
+## Cat Owner
+I have two cats: Tony, a Norwegian Forest Cat, and Mitzi, a Siberian. They are the cuties IMHO.
+
+![Alt text for the image](/images/cats.jpg)
+
