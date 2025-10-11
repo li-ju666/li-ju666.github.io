@@ -24,7 +24,7 @@ I am very into videos games produced by [宮崎英高](https://ja.wikipedia.org/
 Other video games I like include Lies of P, Monster Hunter: World, Monster Hunter: Iceborne, World of Warcraft, It Takes Two, etc. 
 
 ## Cat Owner
-I have two cats: Tony, a Norwegian Forest Cat, and Mitzi, a Siberian. They are the cuties IMHO.
+I have two cats: Tony, a Norwegian Forest Cat, and Mitzi, a Siberian. They are the cutiest IMHO.
 
 ![Alt text for the image](/images/cats.jpg)
 
