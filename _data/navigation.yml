@@ -2,7 +2,10 @@
 main:
   - title: "CV"
     url: /files/ind_cv.pdf
-    
+
+  - title: "Talks"
+    url: /talks/
+
   - title: "Misc."
     url: /misc/
   
