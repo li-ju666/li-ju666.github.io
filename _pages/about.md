@@ -17,7 +17,7 @@ I am currently working on learning from distributed heterogeneous data. Particul
 ### News
 - **09/2025**: Our paper ["Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere"](https://arxiv.org/abs/2505.11029) got accepted to [NeurIPS 2025](https://neurips.cc).
  
-- **08/2025**: Our team Cat Quartet won 2nd place out of >1000 teams at Huawei Wireless Communication Global Hackathon 2025 (1st place in Europe region), building a denoising neural SVD operator to approximate SVD operations in a scalable and robust manner.
+- **08/2025**: Our team Cat Quartet won 2nd place out of >500 teams at Huawei Wireless Communication Global Hackathon 2025 (1st place in Europe region), building a denoising neural SVD operator to approximate SVD operations in a scalable and robust manner.
  
 - **11/2024**: Our team Hello Kitty secured 2nd place out of 35 teams at [Huawei Sweden Hackathon 2024](https://techarena-sweden.hackathon.com), tackling wireless localisation problems using machine learning methods.
  
