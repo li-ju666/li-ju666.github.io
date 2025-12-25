@@ -41,4 +41,4 @@ I am currently working on learning from distributed heterogeneous data. Particul
 ---
 #### Visitors
 <!-- {% include flagcounter.html %} -->
-[![Flag Counter](https://s01.flagcounter.com/count/WC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/)](http://s01.flagcounter.com/more/WC)
+[![Flag Counter](https://s01.flagcounter.com/count/WC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/)](https://s01.flagcounter.com/more/WC)
