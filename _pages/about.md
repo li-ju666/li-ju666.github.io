@@ -12,9 +12,12 @@ redirect_from:
 I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.it.uu.se/katalog/andreash). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Research Interests
-I am currently working on learning from distributed heterogeneous data. Particularly, I am interested in the data heterogeneity problems in federated learning and uncertainty quantification for multi-modal language models.
+I am currently working on learning from heterogeneous and distributed data. Particularly, I am interested in uncertainty quantification for multi-modal language models (using probablistic and generative modeling) and the data heterogeneity problems in federated learning.
 
 ### News
+
+- **01/2026**: I started an internship at [Modulai](https://modulai.io/) as a machine learning engineer, working on fine-tuning large language models using reinforcement learning with verifiable rewards (RLVR).
+
 - **09/2025**: Our paper ["Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere"](https://arxiv.org/abs/2505.11029) got accepted to [NeurIPS 2025](https://neurips.cc).
  
 - **08/2025**: Our team Cat Quartet won 2nd place out of >500 teams at Huawei Wireless Communication Global Hackathon 2025 (1st place in Europe region), building a denoising neural SVD operator to approximate SVD operations in a scalable and robust manner.
@@ -40,5 +43,4 @@ I am currently working on learning from distributed heterogeneous data. Particul
 
 ---
 #### Visitors
-<!-- {% include flagcounter.html %} -->
-[![Flag Counter](https://s01.flagcounter.com/count/WC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_3/labels_0/pageviews_0/flags_0/percent_0/)](https://s01.flagcounter.com/more/WC)
+{% include flagcounter.html %}

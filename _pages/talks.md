@@ -7,6 +7,8 @@ redirect_from:
   - /talks.html
 ---
 
+- **01/2026**: I shared notes on policy gradient methods. [[notes](/files/rl_notes.pdf)]
+
 - **09/2025**: I gave a talk titled "Orthogonality in neural network" for [Scaleout Edges](https://www.scaleoutsystems.com). [[slides](/files/ortho.pdf), [notes](/files/ortho_notes.pdf)]
 
 - **09/2025**: I gave a talk about flow matching and diffusion models at our group seminar. [[notes](/files/flow_matching_diffusion_models.pdf), [code](https://github.com/li-ju666/flow_and_diffusion_model/tree/master)]
