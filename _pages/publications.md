@@ -38,3 +38,17 @@ My publication list can also be found at my [Google Scholar](https://scholar.goo
 [![code badge](https://img.shields.io/badge/code-yellow)](https://github.com/li-ju666/ProactivePodAutoscaler)
 
 **Li Ju**, Prashant Singh, Salman Toor; UCC 2021
+
+## Preprints
+**Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching**
+[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.21662v1)
+[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.21662v1)
+
+**Li Ju**, Mayank Nautiyal, Andreas Hellander, Ekta Vats, Prashant Singh; arXiv preprint
+
+---
+**OneFlowSBI: One Model, Many Queries for Simulation-Based Inference**
+[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.22951v1)
+[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.22951v1)
+
+Mayank Nautiyal, **Li Ju**, Melker Ernfors, Klara Hagland, Ville Holma, Maximilian Werkö Söderholm, Andreas Hellander, Prashant Singh; arXiv preprint
