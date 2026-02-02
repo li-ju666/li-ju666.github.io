@@ -6,9 +6,8 @@ author_profile: true
 redirect_from:
   - /publications.html
 ---
-My publication list can also be found at my [Google Scholar](https://scholar.google.com/citations?user=tlXTHUEAAAAJ&hl=en).
 
-## Selected Publications
+## *Selected Publications*
 **Exploiting the asymmetric uncertainty structure of pre-trained VLMs on the unit hypersphere**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://openreview.net/pdf?id=iBRfJY91QQ) 
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2505.11029)
@@ -39,16 +38,22 @@ My publication list can also be found at my [Google Scholar](https://scholar.goo
 
 **Li Ju**, Prashant Singh, Salman Toor; UCC 2021
 
-## Preprints
-**Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching**
+<br>
+
+## *Preprints*
+**Epistemic uncertainty quantification for pre-trained VLMs via Riemannian flow matching**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.21662v1)
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.21662v1)
 
 **Li Ju**, Mayank Nautiyal, Andreas Hellander, Ekta Vats, Prashant Singh; arXiv preprint
 
 ---
-**OneFlowSBI: One Model, Many Queries for Simulation-Based Inference**
+**OneFlowSBI: one model, many queries for simulation-based inference**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.22951v1)
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.22951v1)
 
 Mayank Nautiyal, **Li Ju**, Melker Ernfors, Klara Hagland, Ville Holma, Maximilian Werkö Söderholm, Andreas Hellander, Prashant Singh; arXiv preprint
+
+---
+
+My full publication list can be found at my [Google Scholar](https://scholar.google.com/citations?user=tlXTHUEAAAAJ&hl=en).
