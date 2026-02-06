@@ -7,6 +7,8 @@ redirect_from:
   - /talks.html
 ---
 
+- **01/2026**: I shared notes on data parallelism in training large language models - "How many GPUs do you need to train a transformer?". [[notes](/files/vram_calculation.pdf)]
+
 - **01/2026**: I shared notes on policy gradient methods. [[notes](/files/rl_notes.pdf)]
 
 - **09/2025**: I gave a talk titled "Orthogonality in neural network" for [Scaleout Edges](https://www.scaleoutsystems.com). [[slides](/files/ortho.pdf), [notes](/files/ortho_notes.pdf)]
