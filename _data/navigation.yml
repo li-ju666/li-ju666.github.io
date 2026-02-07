@@ -1,13 +1,14 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/cv_2026.pdf
 
   - title: "Talks & Notes"
     url: /talks/
 
   - title: "Publications"
     url: /publications/
+
+  - title: "CV"
+    url: /files/cv_2026.pdf
 
   - title: "Misc."
     url: /misc/
