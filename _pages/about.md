@@ -12,11 +12,11 @@ redirect_from:
 I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.it.uu.se/katalog/andreash). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Research Interests
-I am currently working on learning from heterogeneous and distributed data. Particularly, I am interested in uncertainty quantification for multi-modal language models (using probablistic and generative modeling) and the data heterogeneity problems in federated learning.
+I am currently working on robust learning on heterogeneous and distributed data. Particularly, I am interested in uncertainty quantification for multi-modal language models (using probablistic and generative modeling) and the data heterogeneity problems in federated learning.
 
 ### News
 
-- **01/2026**: I started an internship at [Modulai](https://modulai.io/) as a machine learning engineer, working on fine-tuning large language models using reinforcement learning with verifiable rewards (RLVR).
+- **01/2026**: I started an internship at [Modulai](https://modulai.io/) as a machine learning engineer, studying generalization behavior of reinforcement learning with verifiable rewards for large language models post-training.
 
 - **09/2025**: Our paper ["Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere"](https://arxiv.org/abs/2505.11029) got accepted to [NeurIPS 2025](https://neurips.cc).
  
@@ -39,7 +39,7 @@ I am currently working on learning from heterogeneous and distributed data. Part
 
 - **12/21**: Our paper ["Proactive autoscaling for edge computing systems with kubernetes"](https://dl.acm.org/doi/10.1145/3492323.3495588) got accepted in [UCC '21](https://ucc-conference.org/). 
 
-- **09/2021**: I started my Ph.D study at [TDB](https://www.it.uu.se/research/scientific_computing), Uppsala University, co-supervised by Andreas Hellander and Salman Toor. 
+- **09/2021**: I started my Ph.D study at [TDB](https://www.it.uu.se/research/scientific_computing), Uppsala University, co-supervised by Andreas Hellander, Prashant Singh, and Salman Toor. 
 
 ---
 #### Visitors
