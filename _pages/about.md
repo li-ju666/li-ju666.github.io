@@ -15,7 +15,8 @@ I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University]
 I am currently working on robust learning on heterogeneous and distributed data. Particularly, I am interested in uncertainty quantification for multi-modal language models (using probablistic and generative modeling) and the data heterogeneity problems in federated learning.
 
 ### News
-
+- **05/2026**: Our paper ["Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching"](https://arxiv.org/abs/2601.21662v1) got accepted to [ICML 2026](https://icml.cc).
+ 
 - **01/2026**: I started an internship at [Modulai](https://modulai.io/) as a machine learning engineer, studying generalization behavior of reinforcement learning with verifiable rewards for large language models post-training.
 
 - **09/2025**: Our paper ["Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere"](https://arxiv.org/abs/2505.11029) got accepted to [NeurIPS 2025](https://neurips.cc).

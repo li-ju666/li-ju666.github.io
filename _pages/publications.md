@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 ## *Selected Publications*
+**Epistemic uncertainty quantification for pre-trained VLMs via Riemannian flow matching**
+[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.21662v1)
+[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.21662v1)
+
+**Li Ju**, Mayank Nautiyal, Andreas Hellander, Ekta Vats, Prashant Singh; ICML 2026
+
+---
 **Exploiting the asymmetric uncertainty structure of pre-trained VLMs on the unit hypersphere**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://openreview.net/pdf?id=iBRfJY91QQ) 
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2505.11029)
@@ -41,13 +48,6 @@ redirect_from:
 <br>
 
 ## *Preprints*
-**Epistemic uncertainty quantification for pre-trained VLMs via Riemannian flow matching**
-[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.21662v1)
-[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.21662v1)
-
-**Li Ju**, Mayank Nautiyal, Andreas Hellander, Ekta Vats, Prashant Singh; arXiv preprint
-
----
 **OneFlowSBI: one model, many queries for simulation-based inference**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.22951v1)
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.22951v1)
