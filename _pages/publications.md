@@ -48,6 +48,12 @@ redirect_from:
 <br>
 
 ## *Preprints*
+**GeoFlowVLM: Geometry-Aware Joint Uncertainty for Frozen Vision-Language Embedding**
+[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2605.13352)
+[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2605.13352)
+
+Mayank Nautiyal<sup>†</sup>, **Li Ju**<sup>†</sup>, Andreas Hellander, Ekta Vats, Prashant Singh; arXiv preprint (<sup>†</sup> Equal contribution)
+
 **OneFlowSBI: one model, many queries for simulation-based inference**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.22951v1)
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.22951v1)
