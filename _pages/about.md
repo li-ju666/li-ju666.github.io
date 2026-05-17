@@ -12,7 +12,7 @@ redirect_from:
 I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.it.uu.se/katalog/andreash). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Research Interests
-I am currently working on robust learning on heterogeneous and distributed data. Particularly, I am interested in uncertainty quantification for multi-modal language models (using probablistic and generative modeling) and the data heterogeneity problems in federated learning.
+My research focuses on probabilistic and generative machine learning, with an emphasis on representation learning for foundation models. I am particularly interested in flow-based generative methods and probabilistic methods for multimodal and vision-language systems. Uncertainty quantification is one important application of these methods, but my broader interest is in using probabilistic modeling to understand and improve learned representations. Earlier in my Ph.D., I worked on federated learning, especially data heterogeneity, fairness, and robust optimization, though this is no longer my primary research direction.
 
 ### News
 - **05/2026**: Our paper ["Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching"](https://arxiv.org/abs/2601.21662v1) got accepted to [ICML 2026](https://icml.cc).
