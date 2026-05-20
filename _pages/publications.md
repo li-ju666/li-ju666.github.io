@@ -7,10 +7,13 @@ redirect_from:
   - /publications.html
 ---
 
+My full publication list can be found at my [Google Scholar](https://scholar.google.com/citations?user=tlXTHUEAAAAJ&hl=en).
+
 ## *Selected Publications*
 **Epistemic uncertainty quantification for pre-trained VLMs via Riemannian flow matching**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.21662v1)
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.21662v1)
+[![code badge](https://img.shields.io/badge/code-yellow)](https://github.com/li-ju666/repvlm)
 
 **Li Ju**, Mayank Nautiyal, Andreas Hellander, Ekta Vats, Prashant Singh; ICML 2026
 
@@ -27,7 +30,7 @@ redirect_from:
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://www.sciencedirect.com/science/article/pii/S2667318524000059/pdfft?md5=100e1ed9ac27f95816db906647d11bc0&pid=1-s2.0-S2667318524000059-main.pdf) 
 [![arxiv badge](https://img.shields.io/badge/bioRxiv-red)](https://www.biorxiv.org/content/10.1101/2024.02.09.579629v1)
 
-**Li Ju**, Andreas Hellander, Ola Spjuth; Artificial Intelligence in the Life Sciences
+**Li Ju**, Andreas Hellander, Ola Spjuth; Artificial Intelligence in the Life Sciences, 2024
 
 ---
 **Accelerating fair federated learning: Adaptive federated adam**
@@ -35,7 +38,7 @@ redirect_from:
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2301.09357)
 [![code badge](https://img.shields.io/badge/code-yellow)](https://github.com/li-ju666/adafedadam/tree/main)
 
-**Li Ju**, Tianru Zhang, Salman Toor, Andreas Hellander; IEEE Transactions on Machine Learning in Communications and Networking
+**Li Ju**, Tianru Zhang, Salman Toor, Andreas Hellander; IEEE Transactions on Machine Learning in Communications and Networking, 2024
 
 ---
 **Proactive autoscaling for edge computing systems with kubernetes**
@@ -54,6 +57,7 @@ redirect_from:
 
 Mayank Nautiyal<sup>†</sup>, **Li Ju**<sup>†</sup>, Andreas Hellander, Ekta Vats, Prashant Singh; arXiv preprint (<sup>†</sup> Equal contribution)
 
+---
 **OneFlowSBI: one model, many queries for simulation-based inference**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.22951v1)
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.22951v1)
@@ -61,5 +65,3 @@ Mayank Nautiyal<sup>†</sup>, **Li Ju**<sup>†</sup>, Andreas Hellander, Ekta 
 Mayank Nautiyal, **Li Ju**, Melker Ernfors, Klara Hagland, Ville Holma, Maximilian Werkö Söderholm, Andreas Hellander, Prashant Singh; arXiv preprint
 
 ---
-
-My full publication list can be found at my [Google Scholar](https://scholar.google.com/citations?user=tlXTHUEAAAAJ&hl=en).
