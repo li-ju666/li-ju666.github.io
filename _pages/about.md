@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 ### About me
-I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.it.uu.se/katalog/andreash). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.uu.se/en/contact-and-organisation/staff?query=N5-669). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Research Interests
 My research focuses on probabilistic and generative machine learning, with an emphasis on representation learning for foundation models. I am particularly interested in flow-based generative methods and probabilistic methods for multimodal and vision-language systems. Uncertainty quantification is one important application of these methods, but my broader interest is in using probabilistic modeling to understand and improve learned representations. Earlier in my Ph.D., I worked on federated learning, especially data heterogeneity, fairness, and robust optimization, though this is no longer my primary research direction.
 
 ### News
-- **05/2026**: Our paper ["Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching"](https://arxiv.org/abs/2601.21662v1) got accepted to [ICML 2026](https://icml.cc).
+- **05/2026**: Our paper ["Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching"](https://arxiv.org/abs/2601.21662) got accepted to [ICML 2026](https://icml.cc).
  
 - **01/2026**: I started an internship at [Modulai](https://modulai.io/) as a machine learning engineer, studying generalization behavior of reinforcement learning with verifiable rewards for large language models post-training.
 
@@ -25,20 +25,16 @@ My research focuses on probabilistic and generative machine learning, with an em
  
 - **11/2024**: Our team Hello Kitty secured 2nd place out of 35 teams at [Huawei Sweden Hackathon 2024](https://techarena-sweden.hackathon.com), tackling wireless localisation problems using machine learning methods.
  
-- **10/2024**: I had a poster presentation at the [Swedish e-Science Academy](https://www.compile.lu.se/events/?evenemang=swedish-e-science-academy-2024) about the theoretical analysis for the application of logit adjustment in heterogeneous federated learning.
- 
 - **06/2024**: Our paper ["Accelerating Fair Federated Learning: Adaptive Federated Adam"](https://ieeexplore.ieee.org/document/10584508) got accepted in [IEEE Transactions on Machine Learning in Communications and Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9882533).
  
 - **04/2024**: Our paper ["Federated Learning for Predicting Compound Mechanism of Action Based on Image-data from Cell Painting"](https://www.sciencedirect.com/science/article/pii/S2667318524000059) got accepted in [Artificial Intelligence in the Life Sciences](https://www.sciencedirect.com/journal/artificial-intelligence-in-the-life-sciences).
  
-- **01/2024**: Our paper ["Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning"](https://arxiv.org/pdf/2206.05359) got accepted in [IoTDI '24](https://conferences.computer.org/iotDI/2024/).
+- **01/2024**: Our paper ["Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning"](https://arxiv.org/pdf/2206.05359) got accepted to [IoTDI '24](https://conferences.computer.org/iotDI/2024/).
  
-- **10/2022**: I had a poster presentation at the [Swedish e-Science Academy](https://essenceofescience.se/programme-the-swedish-e-science-academy-on-5-6-october/)
-   about accelerating fair federated learning in Umeå, Sweden. 
  
 - **06/2022**: We released [*Blades*](https://github.com/bladesteam/blades), a simulator for Byzantine-robust federated learning with attacks and defenses. 
 
-- **12/21**: Our paper ["Proactive autoscaling for edge computing systems with kubernetes"](https://dl.acm.org/doi/10.1145/3492323.3495588) got accepted in [UCC '21](https://ucc-conference.org/). 
+- **12/21**: Our paper ["Proactive autoscaling for edge computing systems with kubernetes"](https://dl.acm.org/doi/10.1145/3492323.3495588) got accepted to [UCC '21](https://ucc-conference.org/). 
 
 - **09/2021**: I started my Ph.D study at [TDB](https://www.it.uu.se/research/scientific_computing), Uppsala University, co-supervised by Andreas Hellander, Prashant Singh, and Salman Toor. 
 

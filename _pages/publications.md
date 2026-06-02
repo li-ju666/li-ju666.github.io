@@ -11,15 +11,15 @@ My full publication list can be found at my [Google Scholar](https://scholar.goo
 
 ## *Selected Publications*
 **Epistemic uncertainty quantification for pre-trained VLMs via Riemannian flow matching**
-[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.21662v1)
-[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.21662v1)
+[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.21662)
+[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.21662)
 [![code badge](https://img.shields.io/badge/code-yellow)](https://github.com/li-ju666/repvlm)
 
 **Li Ju**, Mayank Nautiyal, Andreas Hellander, Ekta Vats, Prashant Singh; ICML 2026
 
 ---
 **Exploiting the asymmetric uncertainty structure of pre-trained VLMs on the unit hypersphere**
-[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://openreview.net/pdf?id=iBRfJY91QQ) 
+[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2505.11029) 
 [![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2505.11029)
 [![code badge](https://img.shields.io/badge/code-yellow)](https://github.com/li-ju666/asymvlm)
 
@@ -28,7 +28,7 @@ My full publication list can be found at my [Google Scholar](https://scholar.goo
 ---
 **Federated learning for predicting compound mechanism of action based on image-data from cell painting**
 [![pdf badge](https://img.shields.io/badge/pdf-blue)](https://www.sciencedirect.com/science/article/pii/S2667318524000059/pdfft?md5=100e1ed9ac27f95816db906647d11bc0&pid=1-s2.0-S2667318524000059-main.pdf) 
-[![arxiv badge](https://img.shields.io/badge/bioRxiv-red)](https://www.biorxiv.org/content/10.1101/2024.02.09.579629v1)
+[![arxiv badge](https://img.shields.io/badge/bioRxiv-red)](https://www.biorxiv.org/content/10.1101/2024.02.09.579629)
 
 **Li Ju**, Andreas Hellander, Ola Spjuth; Artificial Intelligence in the Life Sciences, 2024
 
@@ -59,8 +59,8 @@ Mayank Nautiyal<sup>†</sup>, **Li Ju**<sup>†</sup>, Andreas Hellander, Ekta 
 
 ---
 **OneFlowSBI: one model, many queries for simulation-based inference**
-[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.22951v1)
-[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.22951v1)
+[![pdf badge](https://img.shields.io/badge/pdf-blue)](https://arxiv.org/pdf/2601.22951)
+[![arxiv badge](https://img.shields.io/badge/arXiv-red)](https://arxiv.org/abs/2601.22951)
 
 Mayank Nautiyal, **Li Ju**, Melker Ernfors, Klara Hagland, Ville Holma, Maximilian Werkö Söderholm, Andreas Hellander, Prashant Singh; arXiv preprint
 

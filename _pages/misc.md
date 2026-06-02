@@ -7,7 +7,7 @@ redirect_from:
   - /misc.html
 ---
 ## Music
-I am a dedicated metal head. My digital collections at Bandcamp can be found [here](https://bandcamp.com/sariel_filth). I am particularly into
+I am a dedicated fan of metal music. My digital collections at Bandcamp can be found [here](https://bandcamp.com/sariel_filth). I am particularly into
 - [black metal](https://en.wikipedia.org/wiki/Black_metal) of various sub / fusion genres (orthodox black metal, raw black metal, blackened death metal, Ross Bay Cult, Les Légions Noires, you name it. )
 
 - [visual kei](https://en.wikipedia.org/wiki/Visual_kei) (Dir En Grey, the GazettE, Malice Mizer, Moi Dix Mois, ナイトメア, etc)
