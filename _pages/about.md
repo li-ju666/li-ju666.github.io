@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About me
-I recently earned my Ph.D in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.uu.se/en/contact-and-organisation/staff?query=N5-669), [Prashant Singh](https://prashantsingh.se). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I recently earned my Ph.D in Scientific Computing at [Uppsala University](https://www.uu.se/en). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Research Interests
 My research focuses on probabilistic and generative machine learning, with an emphasis on representation learning for foundation models. I am particularly interested in flow-based generative methods and probabilistic methods for multimodal and vision-language systems. Uncertainty quantification is one important application of these methods, but my broader interest is in using probabilistic modeling to understand and improve learned representations. Earlier in my Ph.D., I worked on federated learning, especially data heterogeneity, fairness, and robust optimization, though this is no longer my primary research direction.
