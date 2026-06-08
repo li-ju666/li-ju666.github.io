@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 ### About me
-I am a fifth-year Ph.D candidate in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.uu.se/en/contact-and-organisation/staff?query=N5-669). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I recently earned my Ph.D in Scientific Computing at [Uppsala University](https://www.uu.se/en), supervised by Associate Professor [Andreas Hellander](https://www.uu.se/en/contact-and-organisation/staff?query=N5-669), [Prashant Singh](https://prashantsingh.se). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Research Interests
 My research focuses on probabilistic and generative machine learning, with an emphasis on representation learning for foundation models. I am particularly interested in flow-based generative methods and probabilistic methods for multimodal and vision-language systems. Uncertainty quantification is one important application of these methods, but my broader interest is in using probabilistic modeling to understand and improve learned representations. Earlier in my Ph.D., I worked on federated learning, especially data heterogeneity, fairness, and robust optimization, though this is no longer my primary research direction.
 
 ### News
+- **06/2026**: I successfully defended my Ph.D thesis, [*Robust Learning from Distributed and Heterogeneous Data*](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-583490).
+
 - **05/2026**: Our paper ["Epistemic Uncertainty Quantification for Pre-trained VLMs via Riemannian Flow Matching"](https://arxiv.org/abs/2601.21662) got accepted to [ICML 2026](https://icml.cc).
  
 - **01/2026**: I started an internship at [Modulai](https://modulai.io/) as a machine learning engineer, studying generalization behavior of reinforcement learning with verifiable rewards for large language models post-training.

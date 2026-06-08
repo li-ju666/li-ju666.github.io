@@ -7,6 +7,8 @@ redirect_from:
   - /talks.html
 ---
 
+- **06/2026**: Ph.D defense titled "Robust Learning from Distributed and Heterogeneous Data" at Uppsala University. [[slides](/files/phd_defense.pdf)]
+
 - **01/2026**: Notes on data parallelism in training large language models - "How many GPUs do you need to train a transformer?" [[notes](/files/vram_calculation.pdf)]
 
 - **01/2026**: Notes on policy gradient methods. [[notes](/files/rl_notes.pdf)]
