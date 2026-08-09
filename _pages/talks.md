@@ -7,6 +7,8 @@ redirect_from:
   - /talks.html
 ---
 
+- **08/2026**: Notes on diffusion and flow matching models from a perspective of differential equations - "Diffusion and Flow Matching: From a perspective of differential equations" [[notes](/files/diffusion_flow_matching_de.pdf)]
+
 - **06/2026**: Ph.D defense titled "Robust Learning from Distributed and Heterogeneous Data" at Uppsala University. [[slides](/files/phd_defense.pdf)]
 
 - **01/2026**: Notes on data parallelism in training large language models - "How many GPUs do you need to train a transformer?" [[notes](/files/vram_calculation.pdf)]
