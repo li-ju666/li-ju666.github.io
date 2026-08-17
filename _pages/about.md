@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ### About me
-I recently earned my Ph.D in Scientific Computing at [Uppsala University](https://www.uu.se/en). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
+I recently earned my Ph.D in Scientific Computing at [Uppsala University](https://www.uu.se/en), and will be joining Professor [Samuel Kaski](https://kaski-lab.com)'s [Probabilistic Machine Learning group](https://research.cs.aalto.fi/pml/) at [Aalto University](https://www.aalto.fi/en) as a postdoctoral researcher. Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
 
 ### Research Interests
-My research focuses on probabilistic and generative machine learning, with an emphasis on representation learning for foundation models. I am particularly interested in flow-based generative methods and probabilistic methods for multimodal and vision-language systems. Uncertainty quantification is one important application of these methods, but my broader interest is in using probabilistic modeling to understand and improve learned representations. Earlier in my Ph.D., I worked on federated learning, especially data heterogeneity, fairness, and robust optimization, though this is no longer my primary research direction.
+I am interested in probabilistic methods that operate in latent space while respecting its geometry. Learned representations live on curved and constrained manifolds, and I develop probabilistic and generative methods, largely flow-based, that model distributions on those spaces. Uncertainty quantification for pre-trained vision-language models is where most of this work has landed so far, but it is one application rather than the destination: I am also interested in out-of-distribution generalization and decision making under uncertainty. Earlier in my Ph.D I worked on data heterogeneity problem of federated learning, where my interest in robustness under distributional mismatch began.
 
 ### News
 - **08/2026**: Our paper "PROVE: Probabilistic Visual Grounding via Patch-Level Evidence for Vision-Language Models" got accepted to [WACV 2027](https://wacv.thecvf.com).
