@@ -35,7 +35,6 @@ I am interested in probabilistic methods that operate in latent space while resp
  
 - **01/2024**: Our paper ["Blades: A Unified Benchmark Suite for Byzantine Attacks and Defenses in Federated Learning"](https://arxiv.org/pdf/2206.05359) got accepted to [IoTDI '24](https://conferences.computer.org/iotDI/2024/).
  
- 
 - **06/2022**: We released [*Blades*](https://github.com/bladesteam/blades), a simulator for Byzantine-robust federated learning with attacks and defenses. 
 
 - **12/21**: Our paper ["Proactive autoscaling for edge computing systems with kubernetes"](https://dl.acm.org/doi/10.1145/3492323.3495588) got accepted to [UCC '21](https://ucc-conference.org/). 
