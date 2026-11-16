@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-### About me
-I recently earned my Ph.D in Scientific Computing at [Uppsala University](https://www.uu.se/en). Prior to starting my Ph.D study, I earned MS.c in Computational Science from Uppsala University, MS.c in Chemometrics and BS.c in Chemistry from [University of Science and Technology of China](https://en.ustc.edu.cn/).
+## About me
 
-### Research Interests
-I am interested in probabilistic methods that operate in latent space while respecting its geometry. Learned representations live on curved and constrained manifolds, and I develop probabilistic and generative methods, largely flow-based, that model distributions on those spaces. Uncertainty quantification for pre-trained vision-language models is where most of this work has landed so far, but it is one application rather than the destination: I am also interested in out-of-distribution generalization and decision making under uncertainty. Earlier in my Ph.D I worked on data heterogeneity problem of federated learning, where my interest in robustness under distributional mismatch began.
+I am a postdoctoral researcher at [Uppsala University](https://www.uu.se/en), working on scientific machine learning. I received my Ph.D. in Scientific Computing from Uppsala University, where I also earned an M.Sc. in Computational Science. Before that, I earned an M.Sc. in Chemometrics and a B.Sc. in Chemistry from the [University of Science and Technology of China](https://en.ustc.edu.cn/).
+
+## Research Interests
+
+I develop probabilistic machine learning methods for scientific inference, where the goal is a calibrated statement about what the data support, not just a prediction. My current focus is structured, uncertainty-guided simulation-based inference with flow-based density estimators, driven by dark-matter searches at the LHC. This builds on my Ph.D. work on geometry-aware generative modelling in latent spaces, applied to uncertainty quantification for vision-language models, and on data heterogeneity in federated learning.
 
 ### News
 - **08/2026**: Our paper "PROVE: Probabilistic Visual Grounding via Patch-Level Evidence for Vision-Language Models" got accepted to [WACV 2027](https://wacv.thecvf.com).
